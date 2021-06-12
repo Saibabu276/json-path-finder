@@ -4,9 +4,9 @@
   "repository": {
     "url": "https://github.com/Saibabu276/json-path-finder"
   },
-  "Icon": "images/icon.png",
+  "icon": "images/logo.png",
   "displayName": "Json Path Finder",
-  "description": "This will give the path from root the selected JSON Property key in deeply rooted json files",
+  "description": "This will give the path from root to the selected JSON Property key in deeply rooted json files",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.57.0"

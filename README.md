@@ -7,9 +7,7 @@ This extension is used for finding path for selected Json Property.
 If you have a deeply nested JSON file and always have to do manual hard work to get all the parent Keys till the root from your desired JSON property, Then you can use this extension to get the path to the desired Json proerty key.
 
 ## Please use the extension as below.
-
-![Extension usage](images\guide.gif)
-
+![Extension Usage](https://raw.githubusercontent.com/Saibabu276/json-path-finder/master/images/guide.gif)
 ## Release Notes
     
 ### 1.0.0
